@@ -1,4 +1,4 @@
-# RFC 9116 (security.txt) adoption – Switzerland (sample)
+# RFC 9116 (security.txt) adoption – Switzerland
 
 This repository contains a snapshot of the adoption of RFC 9116 (`/.well-known/security.txt`) and related vulnerability disclosure practices among selected Swiss organisations.
 
