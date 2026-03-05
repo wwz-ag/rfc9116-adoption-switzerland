@@ -11,7 +11,7 @@ Utilities / Energy;WWZ;https://www.wwz.ch/.well-known/security.txt;Yes;Yes;Yes;Y
 Finance / Banking;UBS;https://www.ubs.com/.well-known/security.txt;Yes;No;No;Yes;No;No;No;No;No
 Finance / Banking;Julius Baer;https://www.juliusbaer.com/.well-known/security.txt;Yes;Yes;Yes;Yes;No;No;No;Yes;No
 Finance / Banking;Raiffeisen Switzerland;https://www.raiffeisen.ch/.well-known/security.txt;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;GObugfree
-Finance / Banking;Zürcher Kantonalbank;https://www.zkb.ch/.well-known/security.txt;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;ZKB Bug Bounty Program (Zürcher Kantonalbank)
+Finance / Banking;ZÃ¼rcher Kantonalbank;https://www.zkb.ch/.well-known/security.txt;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;ZKB Bug Bounty Program (ZÃ¼rcher Kantonalbank)
 Finance / Banking;Zuger Kantonalbank;https://www.zugerkb.ch/.well-known/security.txt;No;No;No;No;No;No;No;No;No
 Finance / Banking;PostFinance;https://www.postfinance.ch/.well-known/security.txt;Yes;Yes;Yes;Yes;No;No;No;No;No
 Finance / Banking;Swissquote;https://www.swissquote.com/.well-known/security.txt;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No
@@ -22,7 +22,7 @@ Telecommunications;Sunrise;https://www.sunrise.ch/.well-known/security.txt;Yes;N
 Telecommunications;Salt;https://www.salt.ch/.well-known/security.txt;No;No;No;No;No;No;No;No;No
 Telecommunications;Init7;https://www.init7.net/.well-known/security.txt;Yes;Yes;Yes;Yes;No;No;No;No;No
 Telecommunications;Quickline;https://www.quickline.ch/.well-known/security.txt;No;No;No;No;No;No;No;No;No
-Telecommunications;iWay;https://www.iway.ch/.well-known/security.txt;No;No;No;No;No;No;No;No;No
+Telecommunications;iWay;https://www.iway.ch/.well-known/security.txt;Yes;No;No;Yes;No;No;No;No;No
 Telecommunications;Green;https://www.green.ch/.well-known/security.txt;Yes;Yes;Yes;Yes;Yes;No;Yes;No;No
 Telecommunications;WWZ;https://www.wwz.ch/.well-known/security.txt;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No
 ;;;;;;;;;;;
@@ -43,3 +43,4 @@ Goverment / Public Sector;ethz.ch;https://www.ethz.ch/.well-known/security.txt;Y
 Goverment / Public Sector;epfl.ch;https://www.epfl.ch/.well-known/security.txt;Yes;Yes;Yes;Yes;No;No;No;No;No
 Goverment / Public Sector;post.ch;https://www.post.ch/.well-known/security.txt;Yes;Yes;Yes;Yes;Yes;No;No;Yes;No
 Goverment / Public Sector;SBB;https://www.sbb.ch/.well-known/security.txt;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Intigriti
+
