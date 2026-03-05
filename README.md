@@ -18,6 +18,7 @@ This repository contains a snapshot of the adoption of RFC 9116 (`/.well-known/s
 | Telecommunications | 8 | 5/8 | 4/8 | 3/8 | 2/8 | 3/8 | 2/8 | 1/8 |
 | Utilities / Energy | 8 | 7/8 | 6/8 | 2/8 | 2/8 | 1/8 | 2/8 | 1/8 |
 | Retail | 8 | 4/8 | 4/8 | 2/8 | 2/8 | 2/8 | 1/8 | 1/8 |
+| Goverment / Public Sector | 7/8 | 7/8 | 7/8 | 7/8 | 5/8 | 1/8 | 4/8 | 2/8 |
 
 ---
 
