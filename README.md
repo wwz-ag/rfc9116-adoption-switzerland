@@ -28,12 +28,12 @@ This repository contains a snapshot of the adoption of RFC 9116 (`/.well-known/s
 | Company | .well-known/security.txt URL | security.txt present | Expires field present | RFC compliant | Contact email present | VDP present | Safe Harbor present | Scope defined | Bug bounty mentioned | Bug bounty program |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Alpiq | https://www.alpiq.com/.well-known/security.txt | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Axpo | https://www.axpo.com/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ⚪ |
-| BKW | https://www.bkw.ch/.well-known/security.txt | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ⚪ |
+| Axpo | https://www.axpo.com/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| BKW | https://www.bkw.ch/.well-known/security.txt | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | EBL | https://www.ebl.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | Compass Security Managed Bug Bounty |
 | EKZ | https://www.ekz.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| EWL | https://www.ewl-luzern.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ⚪ |
-| Repower | https://www.repower.com/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ⚪ |
+| EWL | https://www.ewl-luzern.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Repower | https://www.repower.com/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | WWZ | https://www.wwz.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 
 ---
