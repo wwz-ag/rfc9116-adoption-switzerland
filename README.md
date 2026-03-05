@@ -58,7 +58,7 @@ This repository contains a snapshot of the adoption of RFC 9116 (`/.well-known/s
 
 | Company | .well-known/security.txt URL | security.txt present | Expires field present | RFC compliant | Contact email present | VDP present | Safe Harbor present | Scope defined | Bug bounty mentioned | Bug bounty program |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Swisscom | https://www.swisscom.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Swisscom Bug Bounty Programme (GitHub) |
+| Swisscom | https://www.swisscom.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Swisscom Bug Bounty Programme |
 | Sunrise | https://www.sunrise.ch/.well-known/security.txt | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Salt | https://www.salt.ch/.well-known/security.txt | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Init7 | https://www.init7.net/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
