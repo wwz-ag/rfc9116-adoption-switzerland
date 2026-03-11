@@ -88,11 +88,11 @@ This repository contains a snapshot of the adoption of RFC 9116 (`/.well-known/s
 
 | Industry | Company | .well-known/security.txt URL | security.txt present | Expires field present | RFC 9116 compliant | Contact email present | VDP present | Safe Harbor present | Scope defined | Bug bounty mentioned | Bug bounty program |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Government / Public Sector | admin.ch | https://www.admin.ch/.well-known/security.txt | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | Bug Bounty Program of the Federal Administration (NCSC) |
-| Government / Public Sector | zh.ch | https://www.zh.ch/.well-known/security.txt | Yes | Yes | Yes | Yes | Yes | No | No | Yes | No |
-| Government / Public Sector | zg.ch | https://www.zg.ch/.well-known/security.txt | No | No | No | No | No | No | No | No | No |
-| Government / Public Sector | stadt-zuerich.ch | https://www.stadt-zuerich.ch/.well-known/security.txt | Yes | Yes | Yes | Yes | No | No | No | No | No |
-| Government / Public Sector | ethz.ch | https://www.ethz.ch/.well-known/security.txt | Yes | Yes | Yes | Yes | Yes | No | No | No | No |
-| Government / Public Sector | epfl.ch | https://www.epfl.ch/.well-known/security.txt | Yes | Yes | Yes | Yes | No | No | No | No | No |
-| Government / Public Sector | post.ch | https://www.post.ch/.well-known/security.txt | Yes | Yes | Yes | Yes | Yes | No | No | Yes | No |
-| Government / Public Sector | SBB | https://www.sbb.ch/.well-known/security.txt | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Intigriti |
+| Government / Public Sector | admin.ch | https://www.admin.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | Bug Bounty Program of the Federal Administration (NCSC) |
+| Government / Public Sector | zh.ch | https://www.zh.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Government / Public Sector | zg.ch | https://www.zg.ch/.well-known/security.txt | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Government / Public Sector | stadt-zuerich.ch | https://www.stadt-zuerich.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Government / Public Sector | ethz.ch | https://www.ethz.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Government / Public Sector | epfl.ch | https://www.epfl.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Government / Public Sector | post.ch | https://www.post.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Government / Public Sector | SBB | https://www.sbb.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Intigriti |
