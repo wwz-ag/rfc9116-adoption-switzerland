@@ -81,3 +81,18 @@ This repository contains a snapshot of the adoption of RFC 9116 (`/.well-known/s
 | Brack | https://www.brack.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Manor | https://www.manor.ch/.well-known/security.txt | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | volg.ch | https://www.volg.ch/.well-known/security.txt | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+---
+
+## Government / Public Sector
+
+| Company | .well-known/security.txt URL | security.txt present | Expires field present | RFC compliant | Contact email present | VDP present | Safe Harbor present | Scope defined | Bug bounty mentioned | Bug bounty program |
+|---|---|---|---|---|---|---|---|---|---|---|
+| NCSC | https://www.ncsc.admin.ch/.well-known/security.txt | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Swiss Post | https://www.post.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| SBB | https://www.sbb.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | Intigriti |
+| SRF | https://www.srf.ch/.well-known/security.txt | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| ETH Zürich | https://ethz.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| EPFL | https://www.epfl.ch/.well-known/security.txt | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| City of Zurich | https://www.stadt-zuerich.ch/.well-known/security.txt | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Canton of Zurich | https://www.zh.ch/.well-known/security.txt | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
